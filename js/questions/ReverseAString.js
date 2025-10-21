@@ -1,4 +1,4 @@
-let num=123456
+let num=123456789
 let reverse=0;
 
 while(num>0){
